@@ -2,6 +2,8 @@ class CreateAddressOption {
     constructor() {
         this.consumerKey = '63a3f39c23a742e79762';
         this.consumerSecret = '25499f64c2ac484e9899';
+        // this.consumerKey = config.consumerKey;
+        // this.consumerSecret = config.consumerSecret;;
         this.init();
     }
 
